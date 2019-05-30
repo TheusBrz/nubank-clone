@@ -33,7 +33,7 @@ export default function Tabs({ translateY }) {
           <TabText>Cobrar</TabText>
         </TabItem>
         <TabItem>
-          <Icon name="arrow-downard" size={24} color="#FFF" />
+          <Icon name="arrow-downward" size={24} color="#FFF" />
           <TabText>Depositar</TabText>
         </TabItem>
         <TabItem>
